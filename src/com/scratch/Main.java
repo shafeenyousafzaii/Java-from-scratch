@@ -65,6 +65,9 @@ public class Main {
 //        System.out.println("The letter b occurs : " + occurance + " times");
 //        
         
+        // just checking commits and pushes from intelliJ
+        
+        
         Person person=new Person("Muhammad Shafeen",22,100,5.10F,"Pakistan","Matric","Pakistan");
         person.setname("Muhammad Shafeen");
         person.setage(22);
